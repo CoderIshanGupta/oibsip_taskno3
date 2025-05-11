@@ -1,6 +1,6 @@
-# 📱Casio Calculator
+# 📱Calculator
 
-A powerful and responsive scientific calculator app built using **Flutter**, inspired by the **Casio fx-991ES**. The calculator supports both **basic** and **scientific** modes, history tracking, inverse functions, and a custom keyboard interface.
+A powerful and responsive scientific calculator app built using **Flutter**. The calculator supports both **basic** and **scientific** modes, history tracking, inverse functions, and a custom keyboard interface.
 
 ## ✨ Features
 - 📱 Responsive layout for phones and tablets
